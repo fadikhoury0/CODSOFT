@@ -14,7 +14,7 @@ class ContactBookApp:
         self.root.title("Contact Book")
         self.contacts = []
 
-        self.root.configure(bg="#b2ebf2")  # Set background color
+        self.root.configure(bg="#b2ebf2")  
 
         self.create_widgets()
 
